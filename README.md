@@ -11,6 +11,7 @@ F-droid - https://f-droid.org/
 Aurora Store - https://auroraoss.com/  
 ### MOBILE SECURITY  
 Shelter - https://gitea.angry.im/PeterCxy/Shelter#shelter  
+Insular - https://secure-system.gitlab.io/Insular  
 Extirpater - https://f-droid.org/en/packages/us.spotco.extirpater  
 RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker  
 Wasted - https://f-droid.org/en/packages/me.lucky.wasted  
