@@ -16,6 +16,8 @@ Extirpater - https://f-droid.org/en/packages/us.spotco.extirpater
 RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker  
 Wasted - https://f-droid.org/en/packages/me.lucky.wasted  
 Cryptomator - https://f-droid.org/en/packages/org.cryptomator.lite  
+EtchDroid - https://github.com/EtchDroid/EtchDroid  
+
 ### 
 Tower Collector - https://f-droid.org/en/packages/info.zamojski.soft.towercollector  
 
