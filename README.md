@@ -6,6 +6,8 @@
 **[DivestOS](https://divestos.org/)** [(Supported Devices)](https://divestos.org/pages/devices)  
 **[Mobian](https://mobian-project.org/)** [(Supported Devices)](https://wiki.debian.org/Mobian/Devices)  
 **[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products)  
+**[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
+
 ### MOBILE STORE  
 F-droid - https://f-droid.org/  
 Aurora Store - https://auroraoss.com/  
