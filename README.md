@@ -19,6 +19,9 @@ RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker
 Wasted - https://f-droid.org/en/packages/me.lucky.wasted  
 Cryptomator - https://f-droid.org/en/packages/org.cryptomator.lite  
 EtchDroid - https://github.com/EtchDroid/EtchDroid  
+Exodus - https://github.com/Exodus-Privacy/exodus-android-app  
+andOTP - https://github.com/andOTP/andOTP  
+Florisboard - https://github.com/florisboard/florisboard  
 
 ### 
 Tower Collector - https://f-droid.org/en/packages/info.zamojski.soft.towercollector  
