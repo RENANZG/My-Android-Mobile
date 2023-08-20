@@ -8,6 +8,20 @@
 **[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products)  
 **[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
 
+### HARDENING REFERENCES  
+https://guardianproject.info/  
+https://github.com/guardianproject  
+https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
+https://www.whonix.org/wiki/Other_Operating_Systems  
+https://www.whonix.org/wiki/Phone_Number_Validation  
+https://source.android.com/docs/core/architecture/kernel/hardening  
+https://www.cisecurity.org/benchmark/google_android  
+https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility (sponsored by Defense Information Systems Agency)  
+
+### BE AWARE
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/  
+https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md  
+
 ### MOBILE STORE  
 F-droid - https://f-droid.org/  
 Aurora Store - https://auroraoss.com/  
@@ -23,9 +37,9 @@ Exodus - https://github.com/Exodus-Privacy/exodus-android-app
 andOTP - https://github.com/andOTP/andOTP  
 Florisboard - https://github.com/florisboard/florisboard  
 
-### 
+### -under work-
 Tower Collector - https://f-droid.org/en/packages/info.zamojski.soft.towercollector  
-
+2FA - https://2fa.directory/   
 
 
 
