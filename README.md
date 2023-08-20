@@ -12,8 +12,9 @@
 https://guardianproject.info/  
 https://github.com/guardianproject  
 https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
-https://www.whonix.org/wiki/Other_Operating_Systems  
+https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)  
 https://www.whonix.org/wiki/Phone_Number_Validation  
+https://www.whonix.org/wiki/Other_Operating_Systems  
 https://source.android.com/docs/core/architecture/kernel/hardening  
 https://www.cisecurity.org/benchmark/google_android  
 https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility (sponsored by Defense Information Systems Agency)  
@@ -25,6 +26,7 @@ https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_c
 ### MOBILE STORE  
 F-droid - https://f-droid.org/  
 Aurora Store - https://auroraoss.com/  
+
 ### MOBILE SECURITY  
 Shelter - https://gitea.angry.im/PeterCxy/Shelter#shelter  
 Insular - https://secure-system.gitlab.io/Insular  
