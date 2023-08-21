@@ -39,9 +39,17 @@ Exodus - https://github.com/Exodus-Privacy/exodus-android-app
 andOTP - https://github.com/andOTP/andOTP  
 Florisboard - https://github.com/florisboard/florisboard  
 
-### -under work-
+### CELL TOWERS
+Cell Towers - https://opencellid.org  
 Tower Collector - https://f-droid.org/en/packages/info.zamojski.soft.towercollector  
-2FA - https://2fa.directory/   
+
+### EMAI
+https://www.imei.info  
+
+### -under work-
+2FA - https://2fa.directory  
+Phones - https://www.gsmarena.com  
+
 
 
 
