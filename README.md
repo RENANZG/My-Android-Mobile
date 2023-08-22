@@ -50,7 +50,14 @@ https://www.imei.info
 2FA - https://2fa.directory  
 Phones - https://www.gsmarena.com  
 
+### COMMUNICATION
 
+Fake Whatsapp Number  
+
+Fake Telegram Number  
+
+Signal - 
+Wickr - 
 
 
 
