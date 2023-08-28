@@ -9,6 +9,7 @@
 **[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
 
 ### HARDENING REFERENCES  
+https://en.wikipedia.org/wiki/EncroChat    
 https://guardianproject.info/  
 https://github.com/guardianproject  
 https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
