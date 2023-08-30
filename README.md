@@ -43,6 +43,7 @@ Florisboard - https://github.com/florisboard/florisboard
 ### CELL TOWERS
 Cell Towers - https://opencellid.org  
 Tower Collector - https://f-droid.org/en/packages/info.zamojski.soft.towercollector  
+https://en.wikipedia.org/wiki/EncroChat    
 
 ### EMAI
 https://www.imei.info  
