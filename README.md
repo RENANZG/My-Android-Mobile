@@ -10,19 +10,17 @@
 
 ### HARDENING REFERENCES  
 https://en.wikipedia.org/wiki/EncroChat    
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
 https://guardianproject.info/  
 https://github.com/guardianproject  
 https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)  
 https://www.whonix.org/wiki/Phone_Number_Validation  
 https://www.whonix.org/wiki/Other_Operating_Systems  
+https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md    
 https://source.android.com/docs/core/architecture/kernel/hardening  
 https://www.cisecurity.org/benchmark/google_android  
-https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility (sponsored by Defense Information Systems Agency)  
-
-### BE AWARE
-https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/  
-https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md  
+https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility (sponsored by Defense Information Systems Agency)      
 
 ### MOBILE STORE  
 F-droid - https://f-droid.org/  
@@ -39,18 +37,19 @@ EtchDroid - https://github.com/EtchDroid/EtchDroid
 Exodus - https://github.com/Exodus-Privacy/exodus-android-app  
 andOTP - https://github.com/andOTP/andOTP  
 Florisboard - https://github.com/florisboard/florisboard  
+2FA - https://2fa.directory  
 
 ### CELL TOWERS
 Cell Towers - https://opencellid.org  
 Tower Collector - https://f-droid.org/en/packages/info.zamojski.soft.towercollector  
 https://en.wikipedia.org/wiki/EncroChat    
 
-### EMAI
+### EMEI   
 https://www.imei.info  
 
 ### -under work-
-2FA - https://2fa.directory  
 Phones - https://www.gsmarena.com  
+https://github.com/microg/GmsCore    
 
 ### COMMUNICATION
 
@@ -61,5 +60,6 @@ Fake Telegram Number
 Signal - 
 Wickr - 
 
+https://en.wikipedia.org/wiki/EncroChat    
 
 
