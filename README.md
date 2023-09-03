@@ -47,19 +47,23 @@ https://en.wikipedia.org/wiki/EncroChat
 ### EMEI   
 https://www.imei.info  
 
-### -under work-
+### -under work-    
 Phones - https://www.gsmarena.com  
-https://github.com/microg/GmsCore    
+Free implementation of Play Services - https://github.com/microg/GmsCore    
 
 ### COMMUNICATION
 
-Fake Whatsapp Number  
+**Signal**  
 
-Fake Telegram Number  
+https://community.signalusers.org/t/overview-of-third-party-security-audits/13243    
 
-Signal - 
-Wickr - 
+**Wickr**  
 
-https://en.wikipedia.org/wiki/EncroChat    
+**Fake Number**
+
+Whatsapp    
+
+Telegram    
+
 
 
