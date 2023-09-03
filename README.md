@@ -11,6 +11,7 @@
 ### HARDENING REFERENCES  
 https://en.wikipedia.org/wiki/EncroChat    
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
+https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/    
 https://guardianproject.info/  
 https://github.com/guardianproject  
 https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
@@ -65,5 +66,8 @@ Whatsapp
 
 Telegram    
 
-
+### OTHERS
+https://www.reddit.com/r/privacy/    
+https://www.reddit.com/r/PrivacyGuides/    
+https://support.apple.com/en-us/HT212650    
 
