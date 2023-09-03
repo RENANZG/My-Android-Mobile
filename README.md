@@ -8,6 +8,8 @@
 **[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products)  
 **[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
 
+    Best choice for intermediate security (2023): Google Pixel that uses hardened malloc, sandboxed play services and communicate via Matrix.    
+
 ### HARDENING REFERENCES  
 https://en.wikipedia.org/wiki/EncroChat    
 https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
