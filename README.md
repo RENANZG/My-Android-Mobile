@@ -9,7 +9,7 @@
 **[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products)  
 **[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
 
-Best choice for intermediate security (2023): Google Pixel that uses hardened malloc, sandboxed play services and communicate via Matrix - https://matrix.org    .    
+Best choice for intermediate security (2023): Google Pixel that uses hardened malloc, sandboxed play services and communicate via Matrix - https://matrix.org    
 
 ### HARDENING REFERENCES  
 https://en.wikipedia.org/wiki/EncroChat    
@@ -57,19 +57,27 @@ Free implementation of Play Services - https://github.com/microg/GmsCore
 
 ### COMMUNICATION
 
-
 **Matrix**        
 https://matrix.org/    
+https://en.wikipedia.org/wiki/Matrix_(protocol)    
+https://github.com/matrix-org    
+https://www.reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix    
+
+**Matodon**    
+https://joinmastodon.org    
+https://en.wikipedia.org/wiki/Mastodon_(social_network)    
+https://github.com/mastodon/mastodon    
 
 **Signal**  
 https://community.signalusers.org/t/overview-of-third-party-security-audits/13243    
+https://github.com/signalapp    
 
 **Wickr**  
 
-**Fake Number**
-
-Whatsapp    
-Telegram    
+**Whatsapp**    
+• Fake Number    
+**Telegram**    
+• Fake Number    
 
 ### OTHERS
 https://www.reddit.com/r/privacy/    
