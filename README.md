@@ -2,6 +2,7 @@
 
 ### MOBILE SYSTEMS
 **[GraphenoOS](https://grapheneos.org/)** [(Supported Devices)](https://grapheneos.org/faq#supported-devices)  
+**[Replicant](https://www.replicant.us/)** [(Supported Devices)](https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus)  
 **[LineageOS](https://wiki.lineageos.org/)** [(Supported Devices)](https://wiki.lineageos.org/devices/)  
 **[DivestOS](https://divestos.org/)** [(Supported Devices)](https://divestos.org/pages/devices)  
 **[Mobian](https://mobian-project.org/)** [(Supported Devices)](https://wiki.debian.org/Mobian/Devices)  
