@@ -1,30 +1,34 @@
 # 📱📱📱 My-Android-Mobile 📱📱📱 
 
 ### MOBILE SYSTEMS
-**[GraphenoOS](https://grapheneos.org/)** [(Supported Devices)](https://grapheneos.org/faq#supported-devices)  
-**[Replicant](https://www.replicant.us/)** [(Supported Devices)](https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus)  
-**[LineageOS](https://wiki.lineageos.org/)** [(Supported Devices)](https://wiki.lineageos.org/devices/)  
-**[DivestOS](https://divestos.org/)** [(Supported Devices)](https://divestos.org/pages/devices)  
-**[Mobian](https://mobian-project.org/)** [(Supported Devices)](https://wiki.debian.org/Mobian/Devices)  
-**[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products)  
-**[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
+**[GraphenoOS](https://grapheneos.org)** - Security and privacy focused mobile OS [(Supported Devices)](https://grapheneos.org/faq#supported-devices)  
+**[Replicant](https://www.replicant.us/)** - A fully free Android distribution running on several devices [(Supported Devices)](https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus)  
+**[LineageOS](https://wiki.lineageos.org/)** - A free and open-source operating system for various devices [(Supported Devices)](https://wiki.lineageos.org/devices/)  
+**[postmarketOS](https://postmarketos.org/)** - A real Linux distribution for phones [(Supported Devices)](https://wiki.postmarketos.org/wiki/Devices)      
+**[DivestOS](https://divestos.org/)** - A mobile operating system divested from the norm [(Supported Devices)](https://divestos.org/pages/devices)  
+**[Mobian](https://mobian-project.org/)** - A Debian derivative for mobile devices [(Supported Devices)](https://wiki.debian.org/Mobian/Devices)  
+**[Ubuntu-Touch](https://ubuntu-touch.io/)** - We are building privacy and freedom focussed mobile software [(Supported Devices)](https://ubports.com/nl/supported-products)  
+**[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** - Kali NetHunter is a free & Open-source Mobile Penetration Testing Platform [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
 
-Best choice for intermediate security (2023): Google Pixel that uses hardened malloc, sandboxed play services and communicate via Matrix - https://matrix.org    
+
+<sub>Best choice for intermediate security (2023): Google Pixel that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</sub>    
 
 ### HARDENING REFERENCES  
-https://en.wikipedia.org/wiki/EncroChat    
-https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
-https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/    
-https://guardianproject.info/  
-https://github.com/guardianproject  
-https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)  
 https://www.whonix.org/wiki/Phone_Number_Validation  
 https://www.whonix.org/wiki/Other_Operating_Systems  
+https://guardianproject.info/  
+https://github.com/guardianproject  
 https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md    
 https://source.android.com/docs/core/architecture/kernel/hardening  
 https://www.cisecurity.org/benchmark/google_android  
 https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility (sponsored by Defense Information Systems Agency)      
+
+https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
+https://en.wikipedia.org/wiki/EncroChat    
+https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
+https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/    
+
 
 ### MOBILE STORE  
 F-droid - https://f-droid.org/  
