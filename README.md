@@ -1,7 +1,7 @@
 # 📱📱📱 Android Mobile 📱📱📱 
 
-<code>"No matter who you are, every day of your life, you're sitting</code>    
-<code>in a database just ready to be looked at." (Edward Snowden)</code>    
+<pre>"No matter who you are, every day of your life, you're sitting
+in a database just ready to be looked at." (Edward Snowden) </pre>
 
 ![8369054658_0cd55069ee_z (1)](https://github.com/RENANZG/My-Android-Mobile/assets/53377291/3aba4180-6e30-4888-b177-a58637c74f18)
 
