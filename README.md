@@ -1,18 +1,19 @@
 # 📱📱📱 Android Mobile 📱📱📱 
 
-<code>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." (Edward Snowden)</code>
+<code>"No matter who you are, every day of your life, you're sitting</code>    
+<code>in a database just ready to be looked at." (Edward Snowden)</code>    
 
 ![8369054658_0cd55069ee_z (1)](https://github.com/RENANZG/My-Android-Mobile/assets/53377291/3aba4180-6e30-4888-b177-a58637c74f18)
 
 ### MOBILE SYSTEMS
-**[GraphenoOS](https://grapheneos.org)** - Security and privacy focused mobile OS [(Supported Devices)](https://grapheneos.org/faq#supported-devices)  
-**[Replicant](https://www.replicant.us/)** - A fully free Android distribution running on several devices [(Supported Devices)](https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus)  
-**[LineageOS](https://wiki.lineageos.org/)** - A free and open-source operating system for various devices [(Supported Devices)](https://wiki.lineageos.org/devices/)  
-**[postmarketOS](https://postmarketos.org/)** - A real Linux distribution for phones [(Supported Devices)](https://wiki.postmarketos.org/wiki/Devices)      
-**[DivestOS](https://divestos.org/)** - A mobile operating system divested from the norm [(Supported Devices)](https://divestos.org/pages/devices)  
-**[Mobian](https://mobian-project.org/)** - A Debian derivative for mobile devices [(Supported Devices)](https://wiki.debian.org/Mobian/Devices)  
-**[Ubuntu-Touch](https://ubuntu-touch.io/)** - We are building privacy and freedom focussed mobile software [(Supported Devices)](https://ubports.com/nl/supported-products)  
-**[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** - Kali NetHunter is a free & Open-source Mobile Penetration Testing Platform [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile)  
+**[GraphenoOS](https://grapheneos.org)** [(Supported Devices)](https://grapheneos.org/faq#supported-devices) - Security and privacy focused mobile OS   
+**[Replicant](https://www.replicant.us/)** [(Supported Devices)](https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus) - A fully free Android distribution running on several devices   
+**[LineageOS](https://wiki.lineageos.org/)** [(Supported Devices)](https://wiki.lineageos.org/devices/) - A free and open-source operating system for various devices   
+**[postmarketOS](https://postmarketos.org/)** [(Supported Devices)](https://wiki.postmarketos.org/wiki/Devices) - A real Linux distribution for phones       
+**[DivestOS](https://divestos.org/)** [(Supported Devices)](https://divestos.org/pages/devices) - A mobile operating system divested from the norm   
+**[Mobian](https://mobian-project.org/)** [(Supported Devices)](https://wiki.debian.org/Mobian/Devices) - A Debian derivative for mobile devices   
+**[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products) - We are building privacy and freedom focussed mobile software   
+**[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile) - Kali NetHunter is a free & Open-source Mobile Penetration Testing Platform   
 
 
 <sub>Best choice for intermediate security (2023): Google Pixel that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</sub>    
