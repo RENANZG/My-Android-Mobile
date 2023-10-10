@@ -15,8 +15,12 @@ in a database just ready to be looked at." (Edward Snowden) </pre>
 **[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products) - We are building privacy and freedom focussed mobile software   
 **[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile) - Kali NetHunter is a free & Open-source Mobile Penetration Testing Platform   
 
-
 <sub>Best choice for intermediate security (2023): Google Pixel that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</sub>    
+
+### ENCROCHAT CASE
+
+The dark phones (Encrochat) — Criminals are building their own communication system    
+https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759    
 
 ### HARDENING REFERENCES  
 https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)  
