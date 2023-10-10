@@ -1,4 +1,4 @@
-# 📱📱📱 Android Mobile 📱📱📱 
+# 📱🦊🔒 Android Mobile 🔒🦊📱
 
 <pre>"No matter who you are, every day of your life, you're sitting
 in a database just ready to be looked at." (Edward Snowden) </pre>
@@ -43,22 +43,15 @@ Aurora Store - https://auroraoss.com/
 Shelter - https://gitea.angry.im/PeterCxy/Shelter#shelter  
 Insular - https://secure-system.gitlab.io/Insular  
 Extirpater - https://f-droid.org/en/packages/us.spotco.extirpater  
-RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker  
 Wasted - https://f-droid.org/en/packages/me.lucky.wasted  
+RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker  
+WipeFiles - https://github.com/peterhearty/WipeFiles    
 Cryptomator - https://f-droid.org/en/packages/org.cryptomator.lite  
 EtchDroid - https://github.com/EtchDroid/EtchDroid  
 Exodus - https://github.com/Exodus-Privacy/exodus-android-app  
 andOTP - https://github.com/andOTP/andOTP  
 Florisboard - https://github.com/florisboard/florisboard  
 2FA - https://2fa.directory  
-
-### CELL TOWERS
-Cell Towers - https://opencellid.org  
-Tower Collector - https://f-droid.org/en/packages/info.zamojski.soft.towercollector  
-https://en.wikipedia.org/wiki/EncroChat    
-
-### EMEI   
-https://www.imei.info  
 
 ### -under work-    
 Phones - https://www.gsmarena.com  
