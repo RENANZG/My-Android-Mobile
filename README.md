@@ -23,21 +23,15 @@ The dark phones (Encrochat) — Criminals are building their own communication s
 https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759    
 
 ### HARDENING REFERENCES  
-https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)  
-https://www.whonix.org/wiki/Phone_Number_Validation  
-https://www.whonix.org/wiki/Other_Operating_Systems  
-https://guardianproject.info/  
-https://github.com/guardianproject  
-https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md    
-https://source.android.com/docs/core/architecture/kernel/hardening  
-https://www.cisecurity.org/benchmark/google_android  
-https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility (sponsored by Defense Information Systems Agency)      
 
-https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy/  
-https://en.wikipedia.org/wiki/EncroChat    
-https://theintercept.com/2021/07/27/pegasus-nso-spyware-security    
-https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/    
-
+<table>
+<tbody>
+  <tr>
+    <td>&lt;a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)"target="_blank"&gt;Whonix - Avoid (Mobile) Phone Verification (Use only with caution)&lt;/a&gt;<br>&lt;a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank"&gt;Anonymize Other Operating Systems&lt;/a&gt;<br>&lt;a href="https://guardianproject.info" target="_blank"&gt;Guardian Project&lt;/a&gt;<br>&lt;a href="https://github.com/guardianproject" target="_blank"&gt;Guardian Project - GitHub&lt;/a&gt;<br>&lt;a href="https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md" target="_blank"&gt;How to protect from Pegasus spyware and nation-state attacks&lt;/a&gt;<br>&lt;a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank"&gt;Android Kernel Hardening&lt;/a&gt;<br>&lt;a href="https://www.cisecurity.org/benchmark/google_android" target="_blank"&gt;Google Android - CIS Benchmark&lt;/a&gt;</td>
+    <td>&lt;a href="https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility" target="_blank"&gt;Security Technical Implementation Guides (STIGs)&lt;/a&gt;<br>&lt;a href="https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy" target="_blank"&gt;Mission Improbable: Hardening Android for Security And Privacy&lt;/a&gt;<br>&lt;a href="https://en.wikipedia.org/wiki/EncroChat" target="_blank"&gt;EncroChat - Wikipedia&lt;/a&gt;<br>&lt;a href="https://theintercept.com/2021/07/27/pegasus-nso-spyware-security" target="_blank"&gt;HOW TO DEFEND YOURSELF AGAINST THE POWERFUL NEW NSO SPYWARE ATTACKS DISCOVERED AROUND THE WORLD&lt;/a&gt;<br>&lt;a href="https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022" target="_blank"&gt;NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains&lt;/a&gt;</td>
+  </tr>
+</tbody>
+</table>
 
 ### MOBILE STORE  
 F-droid - https://f-droid.org/  
