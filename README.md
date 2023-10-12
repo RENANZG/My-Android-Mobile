@@ -27,8 +27,8 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 <table>
 <tbody>
   <tr>
-    <td>&lt;a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)"target="_blank"&gt;Whonix - Avoid (Mobile) Phone Verification (Use only with caution)&lt;/a&gt;<br>&lt;a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank"&gt;Anonymize Other Operating Systems&lt;/a&gt;<br>&lt;a href="https://guardianproject.info" target="_blank"&gt;Guardian Project&lt;/a&gt;<br>&lt;a href="https://github.com/guardianproject" target="_blank"&gt;Guardian Project - GitHub&lt;/a&gt;<br>&lt;a href="https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md" target="_blank"&gt;How to protect from Pegasus spyware and nation-state attacks&lt;/a&gt;<br>&lt;a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank"&gt;Android Kernel Hardening&lt;/a&gt;<br>&lt;a href="https://www.cisecurity.org/benchmark/google_android" target="_blank"&gt;Google Android - CIS Benchmark&lt;/a&gt;</td>
-    <td>&lt;a href="https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility" target="_blank"&gt;Security Technical Implementation Guides (STIGs)&lt;/a&gt;<br>&lt;a href="https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy" target="_blank"&gt;Mission Improbable: Hardening Android for Security And Privacy&lt;/a&gt;<br>&lt;a href="https://en.wikipedia.org/wiki/EncroChat" target="_blank"&gt;EncroChat - Wikipedia&lt;/a&gt;<br>&lt;a href="https://theintercept.com/2021/07/27/pegasus-nso-spyware-security" target="_blank"&gt;HOW TO DEFEND YOURSELF AGAINST THE POWERFUL NEW NSO SPYWARE ATTACKS DISCOVERED AROUND THE WORLD&lt;/a&gt;<br>&lt;a href="https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022" target="_blank"&gt;NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains&lt;/a&gt;</td>
+    <td><a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)"target="_blank">;Whonix - Avoid (Mobile) Phone Verification (Use only with caution)</a>;<br><a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">;Anonymize Other Operating Systems</a>;<br><a href="https://guardianproject.info" target="_blank">;Guardian Project</a>;<br><a href="https://github.com/guardianproject" target="_blank">;Guardian Project - GitHub</a>;<br><a href="https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md" target="_blank">;How to protect from Pegasus spyware and nation-state attacks</a>;<br><a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank">;Android Kernel Hardening</a>;<br><a href="https://www.cisecurity.org/benchmark/google_android" target="_blank">;Google Android - CIS Benchmark</a>;</td>
+    <td><a href="https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility" target="_blank">;Security Technical Implementation Guides (STIGs)</a>;<br><a href="https://blog.torproject.org/mission-improbable-hardening-android-security-and-privacy" target="_blank">;Mission Improbable: Hardening Android for Security And Privacy</a>;<br><a href="https://en.wikipedia.org/wiki/EncroChat" target="_blank">;EncroChat - Wikipedia</a>;<br><a href="https://theintercept.com/2021/07/27/pegasus-nso-spyware-security" target="_blank">;HOW TO DEFEND YOURSELF AGAINST THE POWERFUL NEW NSO SPYWARE ATTACKS DISCOVERED AROUND THE WORLD</a>;<br><a href="https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022" target="_blank">;NSO Group’s Pegasus Spyware Returns in 2022 with a Trio of iOS 15 and iOS 16 Zero-Click Exploit Chains</a>;</td>
   </tr>
 </tbody>
 </table>
@@ -42,14 +42,15 @@ Shelter - https://gitea.angry.im/PeterCxy/Shelter#shelter
 Insular - https://secure-system.gitlab.io/Insular  
 Extirpater - https://f-droid.org/en/packages/us.spotco.extirpater  
 Wasted - https://f-droid.org/en/packages/me.lucky.wasted  
+InviZible - https://github.com/Gedsh/InviZible    
 RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker  
 WipeFiles - https://github.com/peterhearty/WipeFiles    
 Cryptomator - https://f-droid.org/en/packages/org.cryptomator.lite  
-EtchDroid - https://github.com/EtchDroid/EtchDroid  
 Exodus - https://github.com/Exodus-Privacy/exodus-android-app  
 andOTP - https://github.com/andOTP/andOTP  
 Florisboard - https://github.com/florisboard/florisboard  
 2FA - https://2fa.directory  
+EtchDroid - https://github.com/EtchDroid/EtchDroid    
 
 ### -under work-    
 Phones - https://www.gsmarena.com  
