@@ -1,38 +1,21 @@
-# 📱🦊🔒 Android Mobile 🔒🦊📱
+<h1>📱🦊🔒 Android Mobile 🔒🦊📱</h1>
 
-<pre>"No matter who you are, every day of your life, you're sitting
-in a database just ready to be looked at." (Edward Snowden) </pre>
+<blockquote>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." 
+(Edward Snowden)<blockquote>
 
 ![banner](.data/telephone_1986_-_andy_warhol_830px.png)
-
-### MOBILE SYSTEMS
-**[GraphenoOS](https://grapheneos.org)** [(Supported Devices)](https://grapheneos.org/faq#supported-devices) - Security and privacy focused mobile OS   
-**[LineageOS](https://wiki.lineageos.org/)** [(Supported Devices)](https://wiki.lineageos.org/devices/) - A free and open-source operating system for various devices   
-**[CalyxOS](https://calyxos.org)** [(Supported Devices)](https://calyxos.org/) - Private by Design
-**[Replicant](https://www.replicant.us/)** [(Supported Devices)](https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus) - A fully free Android distribution running on several devices   
-**[postmarketOS](https://postmarketos.org/)** [(Supported Devices)](https://wiki.postmarketos.org/wiki/Devices) - A real Linux distribution for phones       
-**[DivestOS](https://divestos.org/)** [(Supported Devices)](https://divestos.org/pages/devices) - A mobile operating system divested from the norm   
-**[Mobian](https://mobian-project.org/)** [(Supported Devices)](https://wiki.debian.org/Mobian/Devices) - A Debian derivative for mobile devices   
-**[Ubuntu-Touch](https://ubuntu-touch.io/)** [(Supported Devices)](https://ubports.com/nl/supported-products) - We are building privacy and freedom focussed mobile software   
-**[Kali Mobile](https://www.kali.org/get-kali/#kali-mobile)** [(Supported Devices)](https://www.kali.org/get-kali/#kali-mobile) - Kali NetHunter is a free & Open-source Mobile Penetration Testing Platform  
-**[PiPhone](https://github.com/climberhunt/PiPhone)** - A DIY cellphone based on Raspberry Pi
-
-<sub>Best choice for intermediate security (2023): GraphenoOS (Google Pixel) that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</sub>    
-
-### ENCROCHAT CASE
-
-The dark phones (Encrochat) — Criminals are building their own communication system    
-https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759    
 
 ### HARDENING REFERENCES  
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
   <tr>
     <td align="left" valign="top" style="width: 50%">
-    <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)" target="_blank">• Whonix - Avoid (Mobile) Phone Verification (Use only with caution)</a><br>
-    <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br><a href="https://guardianproject.info" target="_blank">• Guardian Project</a><br>
+    <a href="https://guardianproject.info" target="_blank">• Guardian Project</a><br>
     <a href="https://github.com/guardianproject" target="_blank">• Guardian Project - GitHub</a><br>
-    <a href="https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md" target="_blank">• How to protect from Pegasus spyware and nation-state attacks</a><br><a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank">• Android - Kernel Hardening</a><br>
+    <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
+    <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)" target="_blank">• Whonix - Avoid (Mobile) Phone Verification (Use only with caution)</a><br>
+    <a href="https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md" target="_blank">• How to protect from Pegasus spyware and nation-state attacks</a><br>
+    <a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank">• Android - Kernel Hardening</a><br>
     <a href="https://www.cisecurity.org/benchmark/google_android" target="_blank">• Google - Android CIS Benchmark</a><br>
     <a href="https://attack.mitre.org/techniques/mobile/" target="_blank">• MITRE ATT&CK - Mobile Techniques</a><br>
     </td>    
@@ -48,20 +31,71 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 </table>
 
 
+### ANDROID CUSTOM ROM
+
+<strong><a href="https://grapheneos.org">GraphenoOS</a></strong> <a href="https://grapheneos.org/faq#supported-devices">(Supported Devices)</a> - Security and privacy focused mobile OS</br>
+<strong><a href="https://calyxos.org">CalyxOS</a></strong> <a href="https://calyxos.org/">(Supported Devices)</a> - Private by Design</br>
+<strong><a href="https://wiki.lineageos.org/">LineageOS</a></strong> <a href="https://wiki.lineageos.org/devices/">(Supported Devices)</a> - A free and open-source operating system for various devices</br>
+<strong><a href="https://mobian-project.org/">Mobian</a></strong> <a href="https://wiki.debian.org/Mobian/Devices">(Supported Devices)</a> - A Debian derivative for mobile devices</br>
+<strong><a href="https://ubuntu-touch.io/">Ubuntu-Touch</a></strong> <a href="https://ubports.com/nl/supported-products">(Supported Devices)</a> - We are building privacy and freedom focussed mobile software</br>
+<strong><a href="https://www.replicant.us/">Replicant</a></strong> <a href="https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus">(Supported Devices)</a> - A fully free Android distribution running on several devices</br>
+<strong><a href="https://divestos.org/">DivestOS</a></strong> <a href="https://divestos.org/pages/devices">(Supported Devices)</a> - A mobile operating system divested from the norm</br>
+<strong><a href="https://postmarketos.org/">postmarketOS</a></strong> <a href="https://wiki.postmarketos.org/wiki/Devices">(Supported Devices)</a> - A real Linux distribution for phones</br>
+<strong><a href="https://www.kali.org/get-kali/#kali-mobile">Kali Mobile</a></strong> <a href="https://www.kali.org/get-kali/#kali-mobile">(Supported Devices)</a> - Kali NetHunter is a free &amp; Open-source Mobile Penetration Testing Platform</br>
+<strong><a href="https://github.com/climberhunt/PiPhone">PiPhone</a></strong> - A DIY cellphone based on Raspberry Pi</br>
+
+Crdroid - https://crdroid.net/</br>
+Paranoid Android - https://paranoidandroid.co/</br>
+ResurrectionRemix - https://github.com/ResurrectionRemix</br>
+OmniROM - https://omnirom.org/</br>
+Evolution-x - https://evolution-x.org/</br>
+Droidontime- https://www.droidontime.com/</br>
+Projectsakura - https://sourceforge.net/projects/projectsakura/</br>
+Corvus-os - https://sourceforge.net/projects/corvus-os/</br>
+Havoc-os - https://sourceforge.net/projects/havoc-os/</br>
+Revengeos - https://sourceforge.net/projects/revengeos/</br>
+Superioros - https://sourceforge.net/projects/superioros/</br>
+AospExtended - https://github.com/AospExtended</br>
+Arrowos - https://www.arrowos.net/</br>
+Blissroms - https://blissroms.com/</br>
+Derpfest - https://derpfest.org/</br>
+Syberiaos - https://syberiaos.com/</br>
+Dirtyunicorns - https://dirtyunicorns.com/</br>
+Aosip - http://aosip.weebly.com/</br>
+Xiaomifirmwareupdater - https://xiaomifirmwareupdater.com/miui/</br>
+
+• Best choice for intermediate security (2023): GrapheneOS (Google Pixel) that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</br>
+
+
+<h3>BURNER PHONES</h3>
+
+• Encrochat case</br>
+The dark phones (Encrochat) — Criminals are building their own communication system</br>
+https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759</br>
+
+
 <h3>ANDROID ROOT</h3>
 
-Magisk - https://github.com/topjohnwu/Magisk</br>
-TWRP - https://twrp.me</br>
-XDA Forums - https://xdaforums.com</br>
-r/androidroot - https://www.reddit.com/r/androidroot</br>
-Android Debloater - https://github.com/0x192/universal-android-debloater</br>
+• XDA Forums - https://xdaforums.com</br>
+• Magisk - https://github.com/topjohnwu/Magisk</br>
+• TWRP - https://twrp.me</br>
+• Android Debloater - https://github.com/0x192/universal-android-debloater</br>
+• RootzWiki Forums - https://rootzwiki.com/index</br>
+• Android Central - https://forums.androidcentral.com/</br>
+• Android Forums - https://androidforums.com/</br>
+• PHONEDB - https://phonedb.net/index.php?m=repository&list=rom_update</br>
+• TheUnlockr - https://theunlockr.com/roms/android-roms/</br>
+• SamMobile - https://sammobile.com/</br>
+• r/androidroot - https://www.reddit.com/r/androidroot</br>
 
 <h3>MOBILE STORE</h3>
-F-droid - https://f-droid.org</br>
-IzzyOnDroid - https://apt.izzysoft.de/fdroid</br>
-Aurora Store - https://auroraoss.com</br>
+
+• F-droid - https://f-droid.org</br>
+• IzzyOnDroid - https://apt.izzysoft.de/fdroid</br>
+• Aurora Store - https://auroraoss.com</br>
 
 <h3>MOBILE SECURITY</h3>
+
 • Shelter - https://gitea.angry.im/PeterCxy/Shelter#shelter</br>
 • Insular - https://secure-system.gitlab.io/Insular</br>
 • Extirpater - https://f-droid.org/en/packages/us.spotco.extirpater</br>
@@ -81,12 +115,14 @@ Aurora Store - https://auroraoss.com</br>
 • EtchDroid - https://github.com/EtchDroid/EtchDroid</br>
 • Android Faker - https://github.com/Android1500/AndroidFaker</br>
 
+
 • Defeating some of the Cellebrite UFED exploits</br>
 https://github.com/levlesec/lockup</br>
 https://github.com/nekohasekai/lockup</br>
 
 
 ### -under work-    
+
 • Phones - https://www.gsmarena.com</br>
 • Free implementation of Play Services - https://github.com/microg/GmsCore</br>
 
@@ -94,19 +130,20 @@ https://github.com/nekohasekai/lockup</br>
 
 <h4>Matrix Protocol</h4>
 https://matrix.org</br>
-https://en.wikipedia.org/wiki/Matrix_(protocol)</br>
 https://github.com/matrix-org</br>
+https://en.wikipedia.org/wiki/Matrix_(protocol)</br>
 https://www.reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix</br>
 
 <h4>Signal</h4>
 https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
 https://github.com/signalapp</br>
 
-
 <h4>Fake Number</h4>
-MySudo - https://mysudo.com</br>
-SilentLink - Instant eSIM - https://silent.link</br>
-Textverified - https://www.textverified.com</br>
+• MySudo - https://mysudo.com</br>
+• SilentLink - Instant eSIM - https://silent.link</br>
+• Textverified - https://www.textverified.com</br>
+
+https://github.com/NoodleOfDeath/phone-number-burner</br>
 
 <h4>SMS Verify</h4>
 http://hs3x.com</br>
@@ -128,17 +165,18 @@ https://www.temp-mails.com/number</br>
 https://www.freeonlinephone.org</br>
 https://getfreesmsnumber.com</br>
 
-<h4>Matodon</h4> 
+<h4>Mastodon</h4> 
 https://joinmastodon.org</br>
-https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 https://github.com/mastodon/mastodon</br>
+https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
 <h4>Wickr</h4>
 
 <h3>OTHERS</h3>
 https://forum.f-droid.org</br>
-https://xdaforums.com</br>
+https://xdaforums.com/c/general-discussion.240/</br>
+https://xdaforums.com/search/?q=</br>
 https://www.reddit.com/r/privacy</br>
 https://www.reddit.com/r/PrivacyGuides</br>
+https://fossphones.com/os.html</br>
 https://support.apple.com/en-us/HT212650</br>
-
