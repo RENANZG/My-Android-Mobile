@@ -1,7 +1,6 @@
 <h1>📱🦊🔒 Android Mobile 🔒🦊📱</h1>
 
-<blockquote>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." 
-(Edward Snowden)<blockquote>
+<blockquote><h3>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." (Edward Snowden)</h3></blockquote>
 
 ![banner](.data/telephone_1986_-_andy_warhol_830px.png)
 
@@ -30,7 +29,6 @@
   </tr>
 </table>
 
-
 ### ANDROID CUSTOM ROM
 
 <strong><a href="https://grapheneos.org">GraphenoOS</a></strong> <a href="https://grapheneos.org/faq#supported-devices">(Supported Devices)</a> - Security and privacy focused mobile OS</br>
@@ -43,6 +41,8 @@
 <strong><a href="https://postmarketos.org/">postmarketOS</a></strong> <a href="https://wiki.postmarketos.org/wiki/Devices">(Supported Devices)</a> - A real Linux distribution for phones</br>
 <strong><a href="https://www.kali.org/get-kali/#kali-mobile">Kali Mobile</a></strong> <a href="https://www.kali.org/get-kali/#kali-mobile">(Supported Devices)</a> - Kali NetHunter is a free &amp; Open-source Mobile Penetration Testing Platform</br>
 <strong><a href="https://github.com/climberhunt/PiPhone">PiPhone</a></strong> - A DIY cellphone based on Raspberry Pi</br>
+
+<h4>Others custom roms:</h4>
 
 Crdroid - https://crdroid.net/</br>
 Paranoid Android - https://paranoidandroid.co/</br>
@@ -64,7 +64,7 @@ Dirtyunicorns - https://dirtyunicorns.com/</br>
 Aosip - http://aosip.weebly.com/</br>
 Xiaomifirmwareupdater - https://xiaomifirmwareupdater.com/miui/</br>
 
-• Best choice for intermediate security (2023): GrapheneOS (Google Pixel) that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</br>
+<p>• Best choice for intermediate security (2023): GrapheneOS (Google Pixel) that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</p></br>
 
 
 <h3>BURNER PHONES</h3>
@@ -114,7 +114,6 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 • Hash Easily - https://github.com/seoulcodingcafe/HashEasily</br>
 • EtchDroid - https://github.com/EtchDroid/EtchDroid</br>
 • Android Faker - https://github.com/Android1500/AndroidFaker</br>
-
 
 • Defeating some of the Cellebrite UFED exploits</br>
 https://github.com/levlesec/lockup</br>
