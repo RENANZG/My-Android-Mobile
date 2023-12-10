@@ -4,7 +4,9 @@
 
 ![banner](.data/telephone_1986_-_andy_warhol_830px.png)
 
-### HARDENING REFERENCES  
+<hr>
+
+<h3>HARDENING REFERENCES</h3>
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
   <tr>
@@ -13,7 +15,6 @@
     <a href="https://github.com/guardianproject" target="_blank">• Guardian Project - GitHub</a><br>
     <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
     <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)" target="_blank">• Whonix - Avoid (Mobile) Phone Verification (Use only with caution)</a><br>
-    <a href="https://github.com/aronmolnar/smartphone-hardening-guide/blob/main/clean_dirty_concept.md" target="_blank">• How to protect from Pegasus spyware and nation-state attacks</a><br>
     <a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank">• Android - Kernel Hardening</a><br>
     <a href="https://www.cisecurity.org/benchmark/google_android" target="_blank">• Google - Android CIS Benchmark</a><br>
     <a href="https://attack.mitre.org/techniques/mobile/" target="_blank">• MITRE ATT&CK - Mobile Techniques</a><br>
@@ -29,7 +30,11 @@
   </tr>
 </table>
 
-### ANDROID CUSTOM ROM
+<!-- ################################## -->
+<br>
+<hr>
+
+<h3>ANDROID CUSTOM ROM</h3>
 
 <strong><a href="https://grapheneos.org">GraphenoOS</a></strong> <a href="https://grapheneos.org/faq#supported-devices">(Supported Devices)</a> - Security and privacy focused mobile OS</br>
 <strong><a href="https://calyxos.org">CalyxOS</a></strong> <a href="https://calyxos.org/">(Supported Devices)</a> - Private by Design</br>
@@ -64,15 +69,39 @@ Dirtyunicorns - https://dirtyunicorns.com/</br>
 Aosip - http://aosip.weebly.com/</br>
 Xiaomifirmwareupdater - https://xiaomifirmwareupdater.com/miui/</br>
 
-<p>• Best choice for intermediate security (2023): GrapheneOS (Google Pixel) that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</p></br>
+<p>*Best choice for intermediate security (2023): GrapheneOS (Google Pixel) that uses hardened malloc, sandboxed play services and communicate via Matrix Protocol</p></br>
 
+<!-- ################################## -->
+<br>
+<hr>
 
-<h3>BURNER PHONES</h3>
+<h3>Cellebrite UFED</h3>
+
+<h4>Defeating some of the Cellebrite UFED exploits</h4>
+
+https://github.com/levlesec/lockup</br>
+https://github.com/nekohasekai/lockup</br>
+
+<!-- ################################## -->
+<br>
+<hr>
+
+<h3>CRYPTOPHONES</h3>
 
 • Encrochat case</br>
 The dark phones (Encrochat) — Criminals are building their own communication system</br>
 https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-their-own-communication-system-474f3aeef759</br>
 
+<!-- ################################## -->
+<br>
+<hr>
+
+<h3>BURNER PHONES</h3>
+
+
+<!-- ################################## -->
+<br>
+<hr>
 
 <h3>ANDROID ROOT</h3>
 
@@ -88,42 +117,60 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 • SamMobile - https://sammobile.com/</br>
 • r/androidroot - https://www.reddit.com/r/androidroot</br>
 
+<!-- ################################## -->
+<br>
+<hr>
+
 <h3>MOBILE STORE</h3>
 
 • F-droid - https://f-droid.org</br>
 • IzzyOnDroid - https://apt.izzysoft.de/fdroid</br>
 • Aurora Store - https://auroraoss.com</br>
 
+<!-- ################################## -->
+<br>
+<hr>
+
 <h3>MOBILE SECURITY</h3>
+
+<h4>Sandboxes</h4>
 
 • Shelter - https://gitea.angry.im/PeterCxy/Shelter#shelter</br>
 • Insular - https://secure-system.gitlab.io/Insular</br>
-• Extirpater - https://f-droid.org/en/packages/us.spotco.extirpater</br>
-• Wasted - https://f-droid.org/en/packages/me.lucky.wasted</br>
-• InviZible - https://github.com/Gedsh/InviZible</br>
-• Orbot - https://github.com/guardianproject/orbot
+
+<h4>Passwords</h4>
+• KeePassDX - https://github.com/Kunzisoft/KeePassDX</br>
+• Aegis - https://github.com/beemdevelopment/Aegis</br>
+• Authenticator Pro - https://github.com/jamie-mh/AuthenticatorPro</br>
+• Yubico - https://github.com/Yubico/yubioath-flutter</br>
+
+<h4>Cryptograhy</h4>
 • Cryptomator - https://f-droid.org/en/packages/org.cryptomator.lite</br>
 • EDS Lite - https://f-droid.org/packages/com.sovworks.edslite</br>
-• RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker</br>
-• WipeFiles - https://github.com/peterhearty/WipeFiles</br>
 • Exodus - https://github.com/Exodus-Privacy/exodus-android-app</br>
-• Florisboard - https://github.com/florisboard/florisboard</br>
-• andOTP - https://github.com/andOTP/andOTP</br>
-• 2FA - https://2fa.directory</br>
 • Hash Checker - https://github.com/hash-checker/hash-checker</br>
 • Hash Easily - https://github.com/seoulcodingcafe/HashEasily</br>
+
+<h4>Anon web</h4>
+• InviZible - https://github.com/Gedsh/InviZible</br>
+• Orbot - https://github.com/guardianproject/orbot</br>
+
+<h4>Sanitizers</h4>
+• Extirpater - https://f-droid.org/en/packages/us.spotco.extirpater</br>
+• Wasted - https://f-droid.org/en/packages/me.lucky.wasted</br>
+• RandomFileMaker - https://f-droid.org/en/packages/io.github.randomfilemaker</br>
+• WipeFiles - https://github.com/peterhearty/WipeFiles</br>
+
+<h4>Others</h4>
+• Florisboard - https://github.com/florisboard/florisboard</br>
 • EtchDroid - https://github.com/EtchDroid/EtchDroid</br>
 • Android Faker - https://github.com/Android1500/AndroidFaker</br>
-
-• Defeating some of the Cellebrite UFED exploits</br>
-https://github.com/levlesec/lockup</br>
-https://github.com/nekohasekai/lockup</br>
-
-
-### -under work-    
-
-• Phones - https://www.gsmarena.com</br>
 • Free implementation of Play Services - https://github.com/microg/GmsCore</br>
+• Phones - https://www.gsmarena.com</br>
+
+<!-- ################################## -->
+<br>
+<hr>
 
 <h3>COMMUNICATION</h3>
 
@@ -164,18 +211,24 @@ https://www.temp-mails.com/number</br>
 https://www.freeonlinephone.org</br>
 https://getfreesmsnumber.com</br>
 
+<h4>Wickr</h4>
+
 <h4>Mastodon</h4> 
 https://joinmastodon.org</br>
 https://github.com/mastodon/mastodon</br>
 https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
-<h4>Wickr</h4>
+
+<!-- ################################## -->
+<br>
+<hr>
 
 <h3>OTHERS</h3>
-https://forum.f-droid.org</br>
-https://xdaforums.com/c/general-discussion.240/</br>
-https://xdaforums.com/search/?q=</br>
-https://www.reddit.com/r/privacy</br>
-https://www.reddit.com/r/PrivacyGuides</br>
-https://fossphones.com/os.html</br>
-https://support.apple.com/en-us/HT212650</br>
+• https://forum.f-droid.org</br>
+• https://xdaforums.com/c/general-discussion.240/</br>
+• https://xdaforums.com/search/?q=</br>
+• https://www.reddit.com/r/privacy</br>
+• https://www.reddit.com/r/PrivacyGuides</br>
+• https://fossphones.com/os.html</br>
+• https://support.apple.com/en-us/HT212650</br>
+• 2FA - https://2fa.directory</br>
