@@ -126,7 +126,10 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 
 • F-droid - https://f-droid.org</br>
 • IzzyOnDroid - https://apt.izzysoft.de/fdroid</br>
+• DivestOS - https://divestos.org</br>
 • Aurora Store - https://auroraoss.com</br>
+
+<p>Note: https://www.privacyguides.org/en/android/#f-droid</p>
 
 <!-- ################################## -->
 <br>
@@ -176,14 +179,20 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 <h3>COMMUNICATION</h3>
 
 <h4>Matrix Protocol</h4>
-https://matrix.org</br>
-https://github.com/matrix-org</br>
-https://en.wikipedia.org/wiki/Matrix_(protocol)</br>
-https://www.reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix</br>
+• https://matrix.org</br>
+• https://github.com/matrix-org</br>
+• https://en.wikipedia.org/wiki/Matrix_(protocol)</br>
+• https://www.reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix</br>
 
 <h4>Signal</h4>
-https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
-https://github.com/signalapp</br>
+• https://signal.org/android/apk/</br>
+• https://github.com/signalapp</br>
+• https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
+
+<h4>Mastodon</h4> 
+• https://joinmastodon.org</br>
+• https://github.com/mastodon/mastodon</br>
+• https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
 <h4>Fake Number</h4>
 • MySudo - https://mysudo.com</br>
@@ -211,13 +220,6 @@ https://www.receivesmsonline.net</br>
 https://www.temp-mails.com/number</br>
 https://www.freeonlinephone.org</br>
 https://getfreesmsnumber.com</br>
-
-<h4>Wickr</h4>
-
-<h4>Mastodon</h4> 
-https://joinmastodon.org</br>
-https://github.com/mastodon/mastodon</br>
-https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
 
 <!-- ################################## -->
