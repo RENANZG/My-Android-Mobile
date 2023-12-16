@@ -10,14 +10,15 @@
 
 <table style="width: 100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left" valign="top" style="width: 50%">
-    <a href="https://guardianproject.info" target="_blank">• Guardian Project</a><br>
-    <a href="https://github.com/guardianproject" target="_blank">• Guardian Project - GitHub</a><br>
-    <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
-    <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)" target="_blank">• Whonix - Avoid (Mobile) Phone Verification (Use only with caution)</a><br>
-    <a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank">• Android - Kernel Hardening</a><br>
-    <a href="https://www.cisecurity.org/benchmark/google_android" target="_blank">• Google - Android CIS Benchmark</a><br>
-    <a href="https://attack.mitre.org/techniques/mobile/" target="_blank">• MITRE ATT&CK - Mobile Techniques</a><br>
+   <td align="left" valign="top" style="width: 50%">
+   <a href="https://guardianproject.info" target="_blank">• Guardian Project</a><br>
+   <a href="https://github.com/guardianproject" target="_blank">• Guardian Project - GitHub</a><br>
+   <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
+   <a href="https://www.whonix.org/wiki/Tips_on_Remaining_Anonymous#Avoid_(Mobile)_Phone_Verification_(Use_only_with_caution)" target="_blank">• Whonix - Avoid (Mobile) Phone Verification (Use only with caution)</a><br>
+   <a href="https://source.android.com/docs/core/architecture/kernel/hardening" target="_blank">• Android - Kernel Hardening</a><br>
+   <a href="https://www.cisecurity.org/benchmark/google_android" target="_blank">• Google - Android CIS Benchmark</a><br>
+   <a href="https://mas.owasp.org" target="_blank">• OWASP - Mobile Application Security</a><br>
+   <a href="https://attack.mitre.org/techniques/mobile/" target="_blank">• MITRE ATT&CK - Mobile Techniques</a><br>
     </td>    
     <td align="left" valign="top" style="width: 50%">
     <a href="https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=mobility" target="_blank" rel="noopener noreferrer">• DoD Cyber Exchange - Security Technical Implementation Guides (STIGs)</a><br>
