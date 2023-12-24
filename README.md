@@ -39,11 +39,12 @@
 
 <strong><a href="https://grapheneos.org">GraphenoOS</a></strong> <a href="https://grapheneos.org/faq#supported-devices">(Supported Devices)</a> - Security and privacy focused mobile OS</br>
 <strong><a href="https://calyxos.org">CalyxOS</a></strong> <a href="https://calyxos.org/">(Supported Devices)</a> - Private by Design</br>
-<strong><a href="https://wiki.lineageos.org/">LineageOS</a></strong> <a href="https://wiki.lineageos.org/devices/">(Supported Devices)</a> - A free and open-source operating system for various devices</br>
+<strong><a href="https://divestos.org/">DivestOS</a></strong> <a href="https://divestos.org/pages/devices">(Supported Devices)</a> - A mobile operating system divested from the norm</br>
+<strong><a href="https://wiki.lineageos.org/">LineageOS</a></strong> <a href="https://projectelixiros.com/download">(Supported Devices)</a> - A free and open-source operating system for various devices</br>
+<strong><a href="https://projectelixiros.com">Project Elixir</a></strong> <a href="https://www.kali.org/get-kali/#kali-mobile">(Supported Devices)</a> - Unleash Innovation</br>
 <strong><a href="https://mobian-project.org/">Mobian</a></strong> <a href="https://wiki.debian.org/Mobian/Devices">(Supported Devices)</a> - A Debian derivative for mobile devices</br>
 <strong><a href="https://ubuntu-touch.io/">Ubuntu-Touch</a></strong> <a href="https://ubports.com/nl/supported-products">(Supported Devices)</a> - We are building privacy and freedom focussed mobile software</br>
 <strong><a href="https://www.replicant.us/">Replicant</a></strong> <a href="https://redmine.replicant.us/projects/replicant/wiki/DeviceStatus">(Supported Devices)</a> - A fully free Android distribution running on several devices</br>
-<strong><a href="https://divestos.org/">DivestOS</a></strong> <a href="https://divestos.org/pages/devices">(Supported Devices)</a> - A mobile operating system divested from the norm</br>
 <strong><a href="https://postmarketos.org/">postmarketOS</a></strong> <a href="https://wiki.postmarketos.org/wiki/Devices">(Supported Devices)</a> - A real Linux distribution for phones</br>
 <strong><a href="https://www.kali.org/get-kali/#kali-mobile">Kali Mobile</a></strong> <a href="https://www.kali.org/get-kali/#kali-mobile">(Supported Devices)</a> - Kali NetHunter is a free &amp; Open-source Mobile Penetration Testing Platform</br>
 <strong><a href="https://github.com/climberhunt/PiPhone">PiPhone</a></strong> - A DIY cellphone based on Raspberry Pi</br>
@@ -198,8 +199,6 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 • MySudo - https://mysudo.com</br>
 • SilentLink - Instant eSIM - https://silent.link</br>
 • Textverified - https://www.textverified.com</br>
-
-https://github.com/NoodleOfDeath/phone-number-burner</br>
 
 <h4>SMS Verify</h4>
 http://hs3x.com</br>
