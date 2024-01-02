@@ -1,10 +1,26 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+
+  <meta charset='UTF-8'>
+
+<body>
+
+<div id="header">
+
 <h1>📱🦊🔒 Android Mobile 🔒🦊📱</h1>
 
 <blockquote><h3>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." (Edward Snowden)</h3></blockquote>
 
-![banner](.data/telephone_1986_-_andy_warhol_830px.png)
+<img src=".data/telephone_1986_-_andy_warhol_830px.png" title="Telephone (1986) - Andy Warhol" align="center"/>
+
+</div>
 
 <hr>
+
+<!-- ################################################# -->
+
 
 <h3>HARDENING REFERENCES</h3>
 
@@ -234,3 +250,22 @@ https://getfreesmsnumber.com</br>
 • https://fossphones.com/os.html</br>
 • https://support.apple.com/en-us/HT212650</br>
 • 2FA - https://2fa.directory</br>
+
+<!-- ################################################# -->
+
+<a href="https://github.com/RENANZG/My-OSINT?tab=readme-ov-file"><p align="right">Back to Top ⬆</p></a>
+
+<!-- ################################################# -->
+
+<div id="footer">
+
+<br>
+<br>
+<br>
+
+<p align="center"><img src=".data/eye.gif"  align="center"/></p>
+
+</div>
+
+</body>
+</html>
