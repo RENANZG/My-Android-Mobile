@@ -106,9 +106,16 @@ https://github.com/nekohasekai/lockup</br>
 
 <h3>BACKDOORS EVERYWHERE</h3>
 
+<p>Did Apple Create This Backdoor for the NSA?</p>
+
 <a href="https://www.youtube.com/watch?v=aN9MzWw9G3o">
   <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaN9MzWw9G3o" alt="Did Apple Create This Backdoor for the NSA?" title="Did Apple Create This Backdoor for the NSA?"/>
 </a></br>
+
+<p>Leaked: The Feds Can See Your Notifications</p>
+<a href="https://www.youtube.com/watch?v=vg9ETJkeaTE">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dvg9ETJkeaTE" alt="Leaked: The Feds Can See Your Notifications" title="Leaked: The Feds Can See Your Notifications"/>
+</a>
 
 <!-- ################################## -->
 <br>
