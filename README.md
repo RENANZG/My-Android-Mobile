@@ -13,7 +13,7 @@
 
 <blockquote><h3>"No matter who you are, every day of your life, you're sitting in a database just ready to be looked at." (Edward Snowden)</h3></blockquote>
 
-<img src=".data/telephone_1986_-_andy_warhol_830px.png" title="Telephone (1986) - Andy Warhol" align="center"/>
+<p align="center"><img src=".data/telephone_1986_-_andy_warhol_830px.png" title="Telephone (1986) - Andy Warhol"/></p>
 
 </div>
 
@@ -93,12 +93,22 @@ Xiaomifirmwareupdater - https://xiaomifirmwareupdater.com/miui/</br>
 <br>
 <hr>
 
-<h3>Cellebrite UFED</h3>
+<h3>CELLEBRITE UFED</h3>
 
 <h4>Defeating some of the Cellebrite UFED exploits</h4>
 
 https://github.com/levlesec/lockup</br>
 https://github.com/nekohasekai/lockup</br>
+
+<!-- ################################## -->
+<br>
+<hr>
+
+<h3>BACKDOORS EVERYWHERE</h3>
+
+<a href="https://www.youtube.com/watch?v=aN9MzWw9G3o">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaN9MzWw9G3o" alt="Did Apple Create This Backdoor for the NSA?" title="Did Apple Create This Backdoor for the NSA?"/>
+</a></br>
 
 <!-- ################################## -->
 <br>
@@ -116,6 +126,8 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 
 <h3>BURNER PHONES</h3>
 
+•    <a href="https://www.whonix.org/wiki/Other_Operating_Systems" target="_blank">• Whonix - Anonymize Other Operating Systems</a><br>
+• https://www.wired.com/story/how-to-use-burner-phone</br>
 
 <!-- ################################## -->
 <br>
@@ -195,26 +207,49 @@ https://xperylab.medium.com/the-dark-phones-encrochat-criminals-are-building-the
 
 <h3>COMMUNICATION</h3>
 
+• Chat Secure</br>
+https://chatsecure.org</br>
+
+• XMPP vs Matrix vs MQTT</br>
+https://www.rst.software/blog/xmpp-vs-matrix-vs-mqtt-which-instant-messaging-protocol-is-best-for-your-chat-application</br>
+
+<h4>Chats</h4>
+
+<img src=".data/ComApps.png" width="640" height="380"/>
+
 <h4>Matrix Protocol</h4>
 • https://matrix.org</br>
 • https://github.com/matrix-org</br>
 • https://en.wikipedia.org/wiki/Matrix_(protocol)</br>
 • https://www.reddit.com/r/Mastodon/comments/mzubbb/mastodon_vs_matrix</br>
 
-<h4>Signal</h4>
+<h5>• XMPP</h5>
+• https://github.com/profanity-im/profanity</br>
+• https://github.com/zom/zom-android</br>
+• http://conversations.im</br>
+• https://github.com/psi-im/psi</br>
+• https://github.com/dino/dino</br>
+• https://github.com/nioc/xmpp-web</br>
+
+<h5>• Session</h5>
+• https://github.com/oxen-io/session-desktop</br>
+• https://github.com/oxen-io/session-android</br>
+• https://arxiv.org/pdf/2002.04609.pdf
+• https://github.com/GNU-Linux-libre/Awesome-Session-Group-List</br>
+
+<h5>• Signal</h5>
 • https://signal.org/android/apk/</br>
 • https://github.com/signalapp</br>
 • https://community.signalusers.org/t/overview-of-third-party-security-audits/13243</br>
+• Signal Did NOT Get Hacked - https://www.youtube.com/watch?v=QEq2JQ6nzuQ</br>
 
-<h4>Mastodon</h4> 
-• https://joinmastodon.org</br>
-• https://github.com/mastodon/mastodon</br>
-• https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
+<h4>Phone Numbers</h4>
 
-<h4>Fake Number</h4>
+<h5>• Phone numbers</h5>
 • MySudo - https://mysudo.com</br>
 • SilentLink - Instant eSIM - https://silent.link</br>
 • Textverified - https://www.textverified.com</br>
+
 
 <h4>SMS Verify</h4>
 http://hs3x.com</br>
@@ -236,6 +271,16 @@ https://www.temp-mails.com/number</br>
 https://www.freeonlinephone.org</br>
 https://getfreesmsnumber.com</br>
 
+<!-- ################################## -->
+<br>
+<hr>
+
+<h3>SOCIAL NETWORKING</h3>
+
+<h4>Mastodon</h4> 
+• https://joinmastodon.org</br>
+• https://github.com/mastodon/mastodon</br>
+• https://en.wikipedia.org/wiki/Mastodon_(social_network)</br>
 
 <!-- ################################## -->
 <br>
@@ -251,11 +296,13 @@ https://getfreesmsnumber.com</br>
 • https://support.apple.com/en-us/HT212650</br>
 • 2FA - https://2fa.directory</br>
 
-<!-- ################################################# -->
+<br>
 
-<a href="https://github.com/RENANZG/My-OSINT?tab=readme-ov-file"><p align="right">Back to Top ⬆</p></a>
+<!--################################### -->
 
-<!-- ################################################# -->
+<p align="right"> <a href="https://github.com/RENANZG/My-Android-Mobile?tab=readme-ov-file#">Back to Top ⬆</a> </p>
+
+<!--################################### -->
 
 <div id="footer">
 
@@ -263,9 +310,11 @@ https://getfreesmsnumber.com</br>
 <br>
 <br>
 
-<p align="center"><img src=".data/eye.gif"  align="center"/></p>
-
+<p align="center">Made with ♥</p>
 </div>
+
+<!--################################### -->
 
 </body>
 </html>
+
